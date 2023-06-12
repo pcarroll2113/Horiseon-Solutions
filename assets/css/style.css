@@ -86,7 +86,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Consolidates these benefit margin and color values.*/
+/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +102,13 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+*/
+.benefits {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/*Consolidated these three benefit h3 values.*/
+/*
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -113,6 +120,11 @@ p {
 }
 
 .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+*/
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -142,6 +154,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*Consolidated these three content box values.*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -169,6 +182,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /*Consolidated these three content img values.*/
 /*
 .search-engine-optimization img {
@@ -186,6 +200,7 @@ p {
 .content img {
     max-height: 200px;
 }
+/*Consolidated these three content h2 values.*/
 /*
 .search-engine-optimization h2 {
     margin-bottom: 20px;
