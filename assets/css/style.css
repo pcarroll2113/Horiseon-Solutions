@@ -1,11 +1,21 @@
+/*Universal Selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Type Selectors*/
 body {
     background-color: #d9dcd6;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 .header {
@@ -39,15 +49,6 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -116,6 +117,7 @@ p {
     text-align: center;
 }
 
+/*Consolidated these three benefit img values.*/
 /*
 .benefit-lead img {
     display: block;
@@ -134,7 +136,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }*/
-/*Consolidated these three benefit img values.*/
+
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -167,7 +169,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Consolidated these three content img values.*/
+/*
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -179,7 +182,11 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+*/
+.content img {
+    max-height: 200px;
+}
+/*
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -191,6 +198,11 @@ p {
 }
 
 .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+*/
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
