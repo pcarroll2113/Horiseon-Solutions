@@ -11,5 +11,8 @@ To the right of the main content is an aside section made up of a sidebar contai
 ## Usage
 Each of the three links in the header share a name with a section of the main content of the webpage. Clicking on these links will take you to the content below in the main section. 
 
+## Here is an image of the finished site:
+![photo of website](assets/127.0.0.1_5501_index.html.png)
+
 ## License
 MIT
