@@ -88,7 +88,7 @@ p {
     background-color: #2589bd;
 }
 
-/*Consolidates these benefit margin and color values.*/
+/*Consolidates these benefit classes.*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -107,7 +107,7 @@ p {
 }
 */
 
-/*Consolidated these three benefit h3 values.*/
+/*Consolidated these three benefit h3 classes.*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -126,7 +126,7 @@ p {
 }
 */
 
-/*Consolidated these three benefit img values.*/
+/*Consolidated these three benefit img classes.*/
 .benefit-lead img,
 .benefit-brand img, 
 .benefit-cost img {
@@ -146,7 +146,7 @@ p {
     max-width: 150px;
 }*/
 
-/*Consolidated these three content box values.*/
+/*Consolidated these three main section classes.*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -175,7 +175,7 @@ p {
     color: #ffffff;
 } */
 
-/*Consolidated these three content img values.*/
+/*Consolidated these three main section img classes.*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -190,7 +190,7 @@ p {
 }
 */
 
-/*Consolidated these three content h2 values.*/
+/*Consolidated these three main section h2 classes.*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
