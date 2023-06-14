@@ -16,7 +16,7 @@ Each of the three links in the header share a name with a section of the main co
 ## Here is an image of the finished site:
 ![photo of website](assets/127.0.0.1_5501_index.html.png)
 
-The deployed website can be reached at this link: 
+The deployed website can be reached at this link:  (https://pcarroll2113.github.io/urban-octo-challenge/)
 
 ## Support
 Reach out to me if you have any questions at:
