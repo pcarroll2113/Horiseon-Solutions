@@ -21,7 +21,7 @@ To run the code, clone index.html from [my repository](git@github.com:pcarroll21
 The deployed website can be reached at this link:  (https://pcarroll2113.github.io/Horiseon-Solutions/)
 
 ## Credits
-Source code was obtained from [The Coding Bootcamp](git@github.com:coding-boot-camp/urban-octo-telegram.git)
+Source code was obtained from [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram.git)
 
 ## Support
 Reach out to me if you have any questions at:
