@@ -26,7 +26,7 @@ Source code was obtained from [The Coding Bootcamp](https://github.com/coding-bo
 ## Support
 Reach out to me if you have any questions at:
 
-[My Github page](https://github.com/sillytsundere/Horiseon-Solutions.git)
+[My Github page](https://github.com/sillytsundere)
 
 ## License
 Licensed under the MIT license.
