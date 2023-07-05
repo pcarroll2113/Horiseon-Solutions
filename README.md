@@ -21,7 +21,7 @@ To run the code, clone index.html from [my repository](https://github.com/sillyt
 The deployed website can be reached at this link:  (https://sillytsundere.github.io/Horiseon-Solutions/)
 
 ## Credits
-Source code was obtained from [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram.git)
+Source code was obtained from [The Coding Bootcamp](https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-06-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
 
 ## Support
 Reach out to me if you have any questions at:
